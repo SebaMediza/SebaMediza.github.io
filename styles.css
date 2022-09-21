@@ -8,3 +8,8 @@ nav {
     background-color: whitesmoke;
     align-self: start;
 }
+
+body main nav a {
+    display: inline-flex;
+    align-items: flex-end;
+}
