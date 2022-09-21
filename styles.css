@@ -1,6 +1,10 @@
 nav {
     background-color: gray;
     font-size: larger;
-    color: white;
-    
+    color: white; 
+}
+
+.container {
+    background-color: whitesmoke;
+    align-self: start;
 }
